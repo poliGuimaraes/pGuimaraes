@@ -4,11 +4,11 @@
 
  
 
-## I'm (SEU NOME)!
+## I'm (Poliana Guimarães)!
 
  
 
-:computer: I'm Front-End Developer!
+:computer: I'm Full-Stack Developer!
 
 :house_with_garden: I’m from Brazil.
 
