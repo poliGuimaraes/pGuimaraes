@@ -3,7 +3,7 @@
 
  
 
-## I'm (Poliana Guimarães)!
+## I'm Poliana Guimarães!
 
  
 
